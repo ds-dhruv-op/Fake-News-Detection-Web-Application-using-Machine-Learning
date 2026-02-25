@@ -1,5 +1,8 @@
 # Fake News Detection
 
+## Author
+**Durga Sankar Upadhyaya**  
+
 Fake News Detection in Python
 
 In this project, we have used various natural language processing techniques and machine learning algorithms to classify fake news articles using sci-kit libraries from python. 
@@ -104,13 +107,13 @@ Below is the learning curves for our candidate models.
 **Logistic Regression Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/LR_LCurve.PNG">
+  <img width="550" height="450" src="https://github.com/ds-dhruv-op/Fake_News_Detection/blob/master/images/LR_LCurve.PNG">
 </p>
 
 **Random Forest Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/RF_LCurve.png">
+  <img width="550" height="450" src="https://github.com/ds-dhruv-op/Fake_News_Detection/blob/master/images/RF_LCurve.png">
 </p>
 
 ### Next steps
@@ -123,7 +126,7 @@ A step by step series of examples that tell you have to get a development env ru
 
 1. The first step would be to clone this repo in a folder in your local machine. To do that you need to run following command in command prompt or in git bash
 ```
-$ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
+$ git clone https://github.com/ds-dhruv-op/Fake_News_Detection.git
 ```
 
 2. This will copy all the data source file, program files and model into your machine.
